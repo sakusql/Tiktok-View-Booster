@@ -1,2 +1,70 @@
-# Tiktok-View-Booster
-Get free views on tiktok
+# Tiktok-Views-Booster - Saku
+
+Bienvenue sur **Tiktok Views Booster** développé par Saku. Ce script est fait pour générer des vues tiktok à l'aide **Zefoy** et d'un *Bypass Captcha*. Merci de suivre les instructions afin de faciliter l'installation.
+
+## Description
+
+This Python script allows you to:
+- **Génère** des vues à l'infini sur le tiktok de votre choix du moment que le script est lancé.
+
+**Ce script fonctionne pour tout les tiktok**
+| Date            | Status          |
+|-----------------|-----------------|
+| 10/12/2024      | ✅ Fonctionne   |
+
+## Prérequis
+
+Avant de lancer le script, soyez sûr de:
+- Avoir Python 3 installé sur votre machine.
+- Avoir installé les différents modules nécessaires. (voir ci-dessous)
+
+## Installation
+
+1. **Cloner le projet:**
+
+    ```bash
+    git clone https://github.com/sakusql/Wemod-Premium-Unlocker
+    cd Wemod-Premium-Unlocker
+    ```
+
+2. **Installer the modules:**
+
+    Soyez sûr que ces différents modules soient installés:
+    - `colorama`
+    - `pystyle`
+    - `requests`
+    - `datetime`
+
+    Vous pouvez installer ces différents modules avec `pip`:
+
+    ```bash
+    pip install colorama pystyle requests datetime
+    ```
+
+## Utilisation
+
+1. **Lancez le script:**
+
+    Pour lancer le script, lancez le fichier `start.bat` présent dans le dossier. Ce fichier batch lance le fichier script.
+
+    ```bash
+    start start.bat
+    ```
+
+2. **Suivez les instructions:**
+
+    Le script vous demandera d'entrer le lien de votre tiktok
+
+    Entrez dans le terminal le lien de votre tiktok et faites `Entrer`
+
+
+## Contact
+
+Pour toute question ou problème, contactez Saku sur Discord: [sakuvlr].
+
+---
+
+Merci d'utiliser **Tiktok Views Booster - Saku**! 🎉
+
+![Python](https://img.shields.io/badge/Python-3.8.6-blue)
+
