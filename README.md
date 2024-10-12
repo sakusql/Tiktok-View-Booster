@@ -40,6 +40,12 @@ Avant de lancer le script, soyez sûr de:
     ```bash
     pip install colorama pystyle requests datetime
     ```
+    
+3. Data
+
+   Téléchargez le fichier data.rar ici https://gofile.io/d/5dgWRt
+
+   Unzip le fichier data dans un votre dossier Tiktok-Views-Booster
 
 ## Utilisation
 
