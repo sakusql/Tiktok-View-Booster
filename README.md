@@ -4,7 +4,7 @@ Bienvenue sur **Tiktok Views Booster** développé par Saku. Ce script est fait 
 
 ## Description
 
-This Python script allows you to:
+Ce script permet de :
 - **Génère** des vues à l'infini sur le tiktok de votre choix du moment que le script est lancé.
 
 **Ce script fonctionne pour tout les tiktok**
