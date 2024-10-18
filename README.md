@@ -51,17 +51,11 @@ Avant de lancer le script, soyez sûr de:
 
 1. **Lancez le script:**
 
-    Pour lancer le script, lancez le fichier `start.bat` présent dans le dossier. Ce fichier batch lance le fichier script.
-
-    ```bash
-    start start.bat
-    ```
+    Mettez le lien de votre tiktok dans `config.json`
 
 2. **Suivez les instructions:**
 
-    Le script vous demandera d'entrer le lien de votre tiktok
-
-    Entrez dans le terminal le lien de votre tiktok et faites `Entrer`
+    Pour lancer le script, lancez le fichier python avec visual studio code et faites F5
 
 
 ## Contact
